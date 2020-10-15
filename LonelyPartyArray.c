@@ -1,8 +1,3 @@
-// Cooper Urich
-// COP 3502C
-// Spring 2019
-// co293541
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "LonelyPartyArray.h"
@@ -430,12 +425,4 @@ long long unsigned int getCurrentSizeInBytes(LonelyPartyArray *party)
 //
 // }
 
-double difficultyRating(void)
-{
-    return 4.0;
-}
 
-double hoursSpent(void)
-{
-    return 30.0;
-}
