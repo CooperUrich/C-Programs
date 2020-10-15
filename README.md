@@ -1,9 +1,9 @@
 # C-Programs
 Programs in the C language that showcase my understanding and knowlege of Dynamic Memory Allocation and Trees
-- Lonely Party Array
+- LonelyPartyArray.c
   - Dynanmic memory allocation and deletion
   - Accessing values of a linked list using pointers
-- Kindered Spirits
+- KinderedSpirits.c
   - Tree Traversals
     - preorder
     - inorder
