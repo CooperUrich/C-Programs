@@ -1,8 +1,3 @@
-// Cooper Urich
-// COP 3502C
-// March 30th
-// Professor Szumlanski
-
 #include "KindredSpirits.h"
 #include <stdio.h>
 #include <stdlib.h>
@@ -211,16 +206,6 @@ int kindredSpirits(node *a, node *b)
     destroy(list3);
 
     return 1;
-}
-
-
-double hoursSpent()
-{
-    return 10.0;
-}
-double difficultyRating()
-{
-    return 2.0;
 }
 
 //int main()
